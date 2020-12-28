@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "242809450436",
+    "project_id": "spotify-clone-adb66",
+    "storage_bucket": "spotify-clone-adb66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242809450436:android:6a30f0fa551226e6273e91",
+        "android_client_info": {
+          "package_name": "com.arpan.myspotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242809450436-tgqhq2q35smrs04g7houh7fb5un9mp5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_ZoiLDyIxUvjv8r-vHAgTIyYnLgmhyVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242809450436-tgqhq2q35smrs04g7houh7fb5un9mp5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
